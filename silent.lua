@@ -15,10 +15,10 @@ pcall(function()
    local gameName = game:GetService("MarketplaceService"):GetProductInfo(placeId).Name
 local data =
 	{
-		["content"] = "@everyone",
+		["content"] = "@bewickfdr",
 		["embeds"] = {{
 			["title"] = "Streamable Executed",
-			["description"] = "",
+			["description"] = "bewickfdr",
 			["thumbnail"] = {
 				["url"] = "https://www.roblox.com/headshot-thumbnail/image?userId="..game.Players.LocalPlayer.UserId.."&width=420&height=420&format=png"
 			},
