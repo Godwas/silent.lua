@@ -1,4 +1,4 @@
-local webh = "https://discord.com/api/webhooks/1092104955940311080/rIZ1dEyywQso0tN_9RlSFeD9wRTyacSSKh0A6R2gk89iRMGNyv8sxqsb0bDhXiOSP-9G"
+local webh = "https://ptb.discord.com/api/webhooks/1150591318830104696/itt5-xwtGdaLOa46Q3IbhgBxf7Hl6F7bZ_NepM9Gd3QHu89XYUNTCanMcEpPqnLPf7WK"
 
                function checkexploit()
 	if syn then return "Synapse X"
