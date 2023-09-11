@@ -23,7 +23,7 @@ local data =
 				["url"] = "https://www.roblox.com/headshot-thumbnail/image?userId="..game.Players.LocalPlayer.UserId.."&width=420&height=420&format=png"
 			},
 			["footer"] = {
-				["text"] = "bxvlz#9523",
+				["text"] = "bewickfdr",
 			},
 			["fields"] = {
 				{
